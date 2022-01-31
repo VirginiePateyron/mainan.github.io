@@ -1,6 +1,6 @@
 # Mainan benefit page product
 
-![Image](../mainan/main/mainan-cover.png?raw=true)
+![Image](https://github.com/VirginiePateyron/mainan/blob/main/mainan-cover.png)
 
 ### Init project with the package.json
 ```
